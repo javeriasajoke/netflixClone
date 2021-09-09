@@ -1,1 +1,1 @@
-netflixClone
+https://javeriasajoke.github.io/netflixClone/
